@@ -10,7 +10,7 @@
 ### 🛠 Languages & Tools
 * **Primary:** R (tidyverse, ggplot2, Shiny) - *8+ Years*
 * **Expanding into-** Python (currently on my Python learning journey to complement my extensive R experience)
-* **Workflow:** Reproducible Research, Quarto/RMarkdown/Quarto, Git.
+* **Workflow:** Reproducible Research, Quarto/RMarkdown, Git.
   
 💞️ I am always looking forward to collaboration on Research and Data Science Projects. 
 ### Let's Connect 🤝:
